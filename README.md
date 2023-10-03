@@ -1,6 +1,10 @@
 <h1 align="center">Hello👋, Its me Lokendra Bhat</h1>
 <h3 align="center">Try hard unless you achieve it. Goal to become a successful DevOps engineer.</h3>
 
+<img align='right' alt="code..." width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokendrabhat&label=Profile%20views&color=0e75b6&style=flat" alt="lokendrabhat" /> </p>
+
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects may be available at [https://github.com/LokendraBhat](https://github.com/LokendraBhat)
