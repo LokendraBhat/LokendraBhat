@@ -1,4 +1,4 @@
-<img alt="banner" src="bnr.gif"/>
+<img width="100%" alt="banner" src="bnr.gif"/>
 <h1 align="center">Hello👋, Its me Lokendra Bhat</h1>
 <h3 align="center">Try hard unless you achieve it. Goal to become a successful DevOps engineer.</h3>
 
