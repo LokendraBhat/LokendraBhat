@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **lokendrabhat.com.np**
 
-- ⚡ Fun fact **I talk less unless I know someone but I become unstoppable after becoming close.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
