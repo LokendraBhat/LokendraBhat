@@ -1,10 +1,10 @@
-<img width="100%" alt="banner" src="bnr.gif"/>
+<!-- <img width="100%" alt="banner" src="bnr.gif"/> -->
 <h1 align="center">Hello👋, Its me Lokendra Bhat</h1>
 <h3 align="center">Try hard unless you achieve it. Goal to become a successful DevOps engineer.</h3>
 
 <img align='right' alt="code..." width="40%" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
-//<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokendrabhat&label=Profile%20views&color=0e75b6&style=flat" alt="lokendrabhat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokendrabhat&label=Profile%20views&color=0e75b6&style=flat" alt="lokendrabhat" /> </p>
 
 - 🌱 I’m currently doing **DevOps**
 
