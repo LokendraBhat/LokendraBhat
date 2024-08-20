@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects may be available at [https://github.com/LokendraBhat](https://github.com/LokendraBhat)
 
-- 📝 I write articles on [https://blog.lokendrabhat1.com.np](https://blog.lokendrabhat.com.np)
+- 📝 I write articles on [https://blog.lokendrabhat.com.np](https://blog.lokendrabhat.com.np)
 
 - 💬 Ask me about **Programming, DevOps**
 
